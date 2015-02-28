@@ -1,3 +1,4 @@
+Add lesson 2
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, consequent addition or modifications of files can be tracked in Git
