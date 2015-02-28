@@ -1,0 +1,26 @@
+Add Lesson 1
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped me to find the exact places where I have made mistake in short time
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+We can pull back the previous versions whenever we want it, the precise understanding of the changes done between the old and current
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros - Since one can manually commit, we can decide on the desired number of versions. 
+
+Cons - Since it is subjective, during collabaration it might lead to too many or too small number of versions
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log lists all the commits with the ids, changes and messages by the user. git diff helps in comparing 2 version of files and then listing out the changes. 
+
+How might using version control make you more confident to make changes that could break something?
+
+Since we got access to previous versions of code, we can go confident in making changes without worrying it might break up the code. If something prevents code from working properly, we can always check out the older verions with the correct code and rewrite it without introducing bugs
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+To learn and practice how to do version control in git
