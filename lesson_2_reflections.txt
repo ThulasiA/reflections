@@ -1,4 +1,5 @@
-Add lesson 2
+Add a lesson 2
+
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, consequent addition or modifications of files can be tracked in Git
@@ -6,3 +7,7 @@ When you initialize a repository, consequent addition or modifications of files 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is where the files are in intermediate position. It has been added to the repository but only would be final when it is fully committed. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+In the staging area you can use git status to see what files are staged on. If there is one logical change, you can go ahead and commit it.
