@@ -11,3 +11,7 @@ Staging area is where the files are in intermediate position. It has been added 
 How can you use the staging area to make sure you have one commit per logical change?
 
 In the staging area you can use git status to see what files are staged on. If there is one logical change, you can go ahead and commit it.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful when there are 2 different changes are allowed in same version of the  file 
