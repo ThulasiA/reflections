@@ -19,3 +19,11 @@ Branches would be helpful when a user wants to check some functionality on their
 How do the diagrams help you visualize the branch structure?
 
 The diagram compares the linear commits and branches and where the branching starts. It helps to understand how branching works.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+At the end of merging, all the changes committed in different branch can be merged into master. The diagram helps the student to understand how merging and branching works
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is easy. But when there is a merge conflict it is wise to do manual merge rather to leave the merging on Git's guess
