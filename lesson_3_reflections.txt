@@ -4,3 +4,13 @@ The main purpose is allowing other users to collobarate with the project.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 When collabarate with your project, you may not want the files created by other people in your local repo.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Clones are the file that are copied either locally from other folder or copied from Github repo to local folder. If a user wants to make changes to existing repo and wants to work locally, they can clone the repo.
+
+Forks are the files that are copied from one repository to other in Github. If the primary repo is not allowed to make branches or adding commits to it, forking is the better option.
+
+Branches are created in a repository. If a user wants to make special features or fix a bug they would create a branch from master repo.
+
+
