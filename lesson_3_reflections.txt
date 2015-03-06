@@ -13,4 +13,12 @@ Forks are the files that are copied from one repository to other in Github. If t
 
 Branches are created in a repository. If a user wants to make special features or fix a bug they would create a branch from master repo.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+In other words, what is the benefit of having origin/master(or other branch name here) ? If any files are changed in local repo and not pushed, then it is nice to know the commits in local and remote are different and the user can act accordingly.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git ot Github, one way to collaborate is emailing changes to the primary user (who keeps all the files updated). It works hassle free on very small group say 3 people. But it would gradually be harder when the group grows. 
+
 
