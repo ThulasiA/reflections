@@ -21,4 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Without Git ot Github, one way to collaborate is emailing changes to the primary user (who keeps all the files updated). It works hassle free on very small group say 3 people. But it would gradually be harder when the group grows. 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+The separate branch is needed if the changes in master branch should be done only on important cases. 
+
 
